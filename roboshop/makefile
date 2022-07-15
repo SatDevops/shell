@@ -1,3 +1,2 @@
 forntend:
- sh roboshop/forntend.sh
- 
+ sh forntend.sh
