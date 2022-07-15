@@ -1,2 +1,2 @@
 forntend:
- sh forntend.sh
+ sh component/forntend.sh
