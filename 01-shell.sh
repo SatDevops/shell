@@ -5,4 +5,4 @@ b=abc
 echo $a
 echo $b
 d 
-echo value of d $d
+echo value of d
