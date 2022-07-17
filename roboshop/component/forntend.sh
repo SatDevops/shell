@@ -1,4 +1,7 @@
 #!/bin/bash
+
+set -e 
+
 yum install nginxfdnklfsn -y
 systemctl enable nginx
 systemctl start nginx
