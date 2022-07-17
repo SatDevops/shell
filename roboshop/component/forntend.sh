@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "i am forntend"
+echo "i am forntend" 
