@@ -1,0 +1,1 @@
+ sh component/forntend.sh
