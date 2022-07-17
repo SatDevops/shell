@@ -1,0 +1,1 @@
+sh component/$1.sh
